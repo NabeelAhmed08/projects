@@ -12,7 +12,7 @@
     "id": 2,
     "title": "Pension Management System",
     "description": "A pension management application for tracking pensioner details, calculating provisions, and processing transactions with scalable and efficient workflow automation.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/NabeelAhmed08/pension-management-system/blob/main/pension-management-portal/src/assets/pms.png?height=400&width=600",
     "tags": ["Angular", "Java", "Spring Boot", "JWT", "Data JPA", "EC2", "Elastic Beanstalk", "S3"],
     "githubUrl": "https://github.com/NabeelAhmed08/pension-management-system"
   },
@@ -20,7 +20,7 @@
     "id": 3,
     "title": "Advanced Contact Manager",
     "description": "A contact management application for organizing and retrieving contacts, with features for adding, deleting, updating, and searching, optimized for enhanced service quality and operations.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/NabeelAhmed08/Advanced-Contact-Manager/blob/main/E-R%20diagram/Img/contact_details.png?height=400&width=600",
     "tags": ["HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "MySQL", "spring security"],
     "liveUrl": "https://example.com",
     "githubUrl": "https://github.com/example/project"
@@ -29,14 +29,14 @@
     "id": 4,
     "title": "Note Stack",
     "description": "React Node Project for note-taking with RESTful APIs and AWS-hosted PostgreSQL database.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/rajesh9442/Portfolio/blob/main/src/images/notes.png?height=400&width=600",
     "tags": ["React", "Node.js", "PostgreSQL", "AWS"]
   },
   {
     "id": 5,
     "title": "Chat Buddy",
     "description": "Real-time chat application using Spring Boot and WebSocket for instant messaging.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/rajesh9442/ChatBuddy/blob/main/img/chatbuddy.png?height=400&width=600",
     "tags": ["JavaScript", "Spring Boot", "WebSocket"],
     "liveUrl": "https://example.com",
     "githubUrl": "https://github.com/rajesh9442/ChatBuddy"
@@ -45,7 +45,7 @@
     "id": 6,
     "title": "Weather Today",
     "description": "Check today's weather using this application.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/rajesh9442/Portfolio/blob/main/src/images/weather.png?height=400&width=600",
     "tags": ["Angular", "TypeScript"],
     "liveUrl": "https://weather-today-tau.vercel.app",
     "githubUrl": "https://github.com/rajesh9442/Weather-Today"
@@ -54,7 +54,7 @@
     "id": 7,
     "title": "My-Calc",
     "description": "A Windows calculator application featuring a modern neomorphic design for an intuitive and visually appealing user experience.",
-    "image": "/placeholder.svg?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/NabeelAhmed08/My-Calc/blob/master/img/calc.png?height=400&width=600",
     "tags": ["HTML", "CSS", "JavaScript", "ElectronJs"],
     "githubUrl": "https://github.com/NabeelAhmed08/My-Calc"
   }
