@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Audio Magic",
     "description": "An AI-powered web app that separates audio/video songs into vocals and music stems. Allows users to isolate and download their preferred stem, enabling uses like karaoke singing or music production.",
-    "image": "https://github.com/rajesh9442/AudioMagic/tree/main/frontend/public/audiomagic.png?height=400&width=600",
+    "image": "https://raw.githubusercontent.com/rajesh9442/AudioMagic/main/frontend/public/audiomagic.png?height=400&width=600",
     "tags": ["React", "Python", "Machine Learning", "PyTorch", "FFMPEG"],
     "liveUrl": "https://audio-magic.vercel.app",
     "githubUrl": "https://github.com/rajesh9442/AudioMagic"
