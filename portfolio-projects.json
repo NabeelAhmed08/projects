@@ -1,5 +1,13 @@
 [
   {
+    "id": 8,
+    "title": "MCTS Mcp",
+    "description": "A Python-based MCP server that provides real-time Milwaukee County Transit System (MCTS) bus arrival predictions, enabling AI assistants to deliver accurate transit information for smarter commuting and planning.",
+    "image": "https://raw.githubusercontent.com/NabeelAhmed08/mcts-mcp/master/public/mcts_mcp_usage.png",
+    "tags": ["Python", "FastMCP", "LLM", "Model Context Protocol", "uv"],
+    "githubUrl": "https://github.com/NabeelAhmed08/mcts-mcp"
+  },
+  {
     "id": 1,
     "title": "Audio Magic",
     "description": "An AI-powered web app that separates audio/video songs into vocals and music stems. Allows users to isolate and download their preferred stem, enabling uses like karaoke singing or music production.",
