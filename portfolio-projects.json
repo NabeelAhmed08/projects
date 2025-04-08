@@ -53,7 +53,7 @@
     "id": 6,
     "title": "Weather Today",
     "description": "Check today's weather using this application.",
-    "image": "https://raw.githubusercontent.com/rajesh9442/Portfolio/blob/main/src/images/weather.png",
+    "image": "https://raw.githubusercontent.com/rajesh9442/Weather-Today/blob/main/public/weather-today.png",
     "tags": ["Angular", "TypeScript"],
     "liveUrl": "https://weather-today-tau.vercel.app",
     "githubUrl": "https://github.com/rajesh9442/Weather-Today"
